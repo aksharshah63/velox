@@ -1,0 +1,3737 @@
+{
+    "population": {
+        "biomechanics": {
+            "all": [
+                {
+                    "horse_type": "Female Older",
+                    "counts": 1329
+                },
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 958
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 786
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 413
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 186
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 146
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 18
+                },
+                {
+                    "horse_type": "Female Weanling",
+                    "counts": 11
+                }
+            ],
+            "elite": [
+                {
+                    "horse_type": "Female Older",
+                    "counts": 559
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 239
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 116
+                },
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 114
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 26
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 21
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 1
+                }
+            ],
+            "non_elite": [
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 844
+                },
+                {
+                    "horse_type": "Female Older",
+                    "counts": 770
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 670
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 174
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 165
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 120
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 17
+                },
+                {
+                    "horse_type": "Female Weanling",
+                    "counts": 11
+                }
+            ]
+        },
+        "cardio": {
+            "all": [
+                {
+                    "horse_type": "Female Older",
+                    "counts": 1186
+                },
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 933
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 652
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 313
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 179
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 142
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 22
+                },
+                {
+                    "horse_type": "Female Weanling",
+                    "counts": 20
+                }
+            ],
+            "elite": [
+                {
+                    "horse_type": "Female Older",
+                    "counts": 517
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 130
+                },
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 116
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 95
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 24
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 22
+                },
+                {
+                    "horse_type": "Female Weanling",
+                    "counts": 2
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 1
+                }
+            ],
+            "non_elite": [
+                {
+                    "horse_type": "Male Yearling",
+                    "counts": 817
+                },
+                {
+                    "horse_type": "Female Older",
+                    "counts": 669
+                },
+                {
+                    "horse_type": "Female Yearling",
+                    "counts": 557
+                },
+                {
+                    "horse_type": "Male Older",
+                    "counts": 183
+                },
+                {
+                    "horse_type": "Male 2YO",
+                    "counts": 157
+                },
+                {
+                    "horse_type": "Female 2YO",
+                    "counts": 118
+                },
+                {
+                    "horse_type": "Male Weanling",
+                    "counts": 21
+                },
+                {
+                    "horse_type": "Female Weanling",
+                    "counts": 18
+                }
+            ]
+        }
+    },
+    "cardio": {
+        "age": [
+            {
+                "horse_type": "Female Older",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 297
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B",
+                "elite": "No",
+                "counts": 233
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "C",
+                "elite": "No",
+                "counts": 214
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A+",
+                "elite": "No",
+                "counts": 196
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "C",
+                "elite": "No",
+                "counts": 193
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A",
+                "elite": "No",
+                "counts": 181
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 153
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B",
+                "elite": "No",
+                "counts": 140
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 130
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B+",
+                "elite": "No",
+                "counts": 116
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A",
+                "elite": "No",
+                "counts": 105
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 97
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 89
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A+",
+                "elite": "No",
+                "counts": 83
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B",
+                "elite": "No",
+                "counts": 79
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "D",
+                "elite": "No",
+                "counts": 66
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "C",
+                "elite": "No",
+                "counts": 64
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "D",
+                "elite": "No",
+                "counts": 56
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 50
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A",
+                "elite": "No",
+                "counts": 47
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A",
+                "elite": "No",
+                "counts": 43
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 39
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B+",
+                "elite": "No",
+                "counts": 35
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 32
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A",
+                "elite": "No",
+                "counts": 32
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B+",
+                "elite": "No",
+                "counts": 29
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A+",
+                "elite": "No",
+                "counts": 27
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A+",
+                "elite": "No",
+                "counts": 27
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B",
+                "elite": "No",
+                "counts": 26
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 25
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "D",
+                "elite": "No",
+                "counts": 24
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B+",
+                "elite": "No",
+                "counts": 23
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B",
+                "elite": "No",
+                "counts": 22
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 22
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 21
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A",
+                "elite": "No",
+                "counts": 21
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 19
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 18
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 18
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "C",
+                "elite": "No",
+                "counts": 18
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "D",
+                "elite": "No",
+                "counts": 17
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "C",
+                "elite": "No",
+                "counts": 16
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A+",
+                "elite": "No",
+                "counts": 16
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A+",
+                "elite": "No",
+                "counts": 16
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 16
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "C",
+                "elite": "No",
+                "counts": 15
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 14
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "D",
+                "elite": "No",
+                "counts": 14
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 13
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B",
+                "elite": "No",
+                "counts": 12
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 11
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 11
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "B",
+                "elite": "No",
+                "counts": 10
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 9
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "C",
+                "elite": "No",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 5
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "A",
+                "elite": "No",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "A",
+                "elite": "No",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "D",
+                "elite": "No",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "D",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "B",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "C",
+                "elite": "No",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "D",
+                "elite": "No",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 1
+            }
+        ],
+        "cluster": [
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "A+",
+                "counts": 52
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "B+",
+                "counts": 49
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "A",
+                "counts": 46
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "D",
+                "counts": 25
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "C",
+                "counts": 19
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "B",
+                "counts": 18
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 151
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 43
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 17
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 4
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 4
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 3
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "D",
+                "counts": 94
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "C",
+                "counts": 30
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "B+",
+                "counts": 21
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "B",
+                "counts": 16
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "A",
+                "counts": 10
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "A+",
+                "counts": 2
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 46
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 24
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 16
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 9
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 9
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 7
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "B",
+                "counts": 186
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "B+",
+                "counts": 80
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "A",
+                "counts": 4
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 32
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 11
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 7
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 1
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "A+",
+                "counts": 106
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "A",
+                "counts": 26
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 98
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 4
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "A",
+                "counts": 74
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "B+",
+                "counts": 59
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "A+",
+                "counts": 57
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "D",
+                "counts": 38
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "B",
+                "counts": 34
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "C",
+                "counts": 24
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 62
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 16
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "C",
+                "counts": 312
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "B",
+                "counts": 90
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "B+",
+                "counts": 31
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "D",
+                "counts": 28
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "A",
+                "counts": 23
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 28
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 16
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 16
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 14
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 2
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "B+",
+                "counts": 163
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "B",
+                "counts": 162
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "A",
+                "counts": 149
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "C",
+                "counts": 132
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "A+",
+                "counts": 42
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 43
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 40
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 33
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 20
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 11
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "A",
+                "counts": 50
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "A+",
+                "counts": 37
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "B+",
+                "counts": 23
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "B",
+                "counts": 11
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "C",
+                "counts": 6
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 18
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 4
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 1
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "A+",
+                "counts": 69
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "A",
+                "counts": 56
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "B+",
+                "counts": 33
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "B",
+                "counts": 8
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "C",
+                "counts": 4
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 54
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 24
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 3
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            }
+        ],
+        "type": [
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "C",
+                "counts": 524
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B",
+                "counts": 519
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B+",
+                "counts": 454
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A",
+                "counts": 432
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A+",
+                "counts": 359
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "D",
+                "counts": 184
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 424
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 215
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 136
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 61
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 40
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "D",
+                "counts": 20
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "A",
+                "counts": 6
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "A+",
+                "counts": 6
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B",
+                "counts": 6
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B+",
+                "counts": 5
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 4
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 1
+            }
+        ]
+    },
+    "biomechanics": {
+        "age": [
+            {
+                "horse_type": "Female Older",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 380
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A",
+                "elite": "No",
+                "counts": 357
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "D",
+                "elite": "No",
+                "counts": 247
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 218
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B",
+                "elite": "No",
+                "counts": 177
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 171
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "C",
+                "elite": "No",
+                "counts": 144
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 142
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "C",
+                "elite": "No",
+                "counts": 136
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B",
+                "elite": "No",
+                "counts": 133
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "A+",
+                "elite": "No",
+                "counts": 109
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B+",
+                "elite": "No",
+                "counts": 99
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A",
+                "elite": "No",
+                "counts": 68
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 59
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B",
+                "elite": "No",
+                "counts": 54
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 51
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A+",
+                "elite": "No",
+                "counts": 50
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "D",
+                "elite": "No",
+                "counts": 48
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 47
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A",
+                "elite": "No",
+                "counts": 46
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B+",
+                "elite": "No",
+                "counts": 43
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "C",
+                "elite": "No",
+                "counts": 41
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B",
+                "elite": "No",
+                "counts": 35
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A",
+                "elite": "No",
+                "counts": 31
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B",
+                "elite": "No",
+                "counts": 29
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B+",
+                "elite": "No",
+                "counts": 29
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B+",
+                "elite": "No",
+                "counts": 26
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B",
+                "elite": "No",
+                "counts": 24
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 23
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A",
+                "elite": "No",
+                "counts": 21
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 21
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "C",
+                "elite": "No",
+                "counts": 21
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A+",
+                "elite": "No",
+                "counts": 16
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "A+",
+                "elite": "No",
+                "counts": 16
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 15
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 15
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "D",
+                "elite": "No",
+                "counts": 14
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A",
+                "elite": "No",
+                "counts": 14
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "C",
+                "elite": "No",
+                "counts": 14
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 13
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 13
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "D",
+                "elite": "No",
+                "counts": 12
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 10
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 10
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "D",
+                "elite": "No",
+                "counts": 9
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "C",
+                "elite": "No",
+                "counts": 8
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 8
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 7
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 7
+            },
+            {
+                "horse_type": "Male Yearling",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "D",
+                "elite": "No",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A+",
+                "elite": "No",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B+",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A+",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "A",
+                "elite": "Yes",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "C",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "C",
+                "elite": "Yes",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Older",
+                "score": "D",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "A+",
+                "elite": "No",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "A",
+                "elite": "No",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Weanling",
+                "score": "B+",
+                "elite": "No",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female 2YO",
+                "score": "D",
+                "elite": "No",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Yearling",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male 2YO",
+                "score": "D",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "A",
+                "elite": "No",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Older",
+                "score": "B",
+                "elite": "Yes",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Weanling",
+                "score": "B",
+                "elite": "No",
+                "counts": 1
+            }
+        ],
+        "cluster": [
+            {
+                "cluster": 0,
+                "elite": "No",
+                "score": "A+",
+                "counts": 10
+            },
+            {
+                "cluster": 0,
+                "elite": "No",
+                "score": "A",
+                "counts": 6
+            },
+            {
+                "cluster": 0,
+                "elite": "No",
+                "score": "B+",
+                "counts": 3
+            },
+            {
+                "cluster": 0,
+                "elite": "No",
+                "score": "C",
+                "counts": 1
+            },
+            {
+                "cluster": 0,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 44
+            },
+            {
+                "cluster": 0,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 1
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "B",
+                "counts": 56
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "A",
+                "counts": 51
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "B+",
+                "counts": 34
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "A+",
+                "counts": 15
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "C",
+                "counts": 5
+            },
+            {
+                "cluster": 1,
+                "elite": "No",
+                "score": "D",
+                "counts": 2
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 32
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 17
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 6
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 1,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "A",
+                "counts": 41
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "B",
+                "counts": 30
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "C",
+                "counts": 30
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "D",
+                "counts": 29
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "A+",
+                "counts": 22
+            },
+            {
+                "cluster": 2,
+                "elite": "No",
+                "score": "B+",
+                "counts": 18
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 55
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 10
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 6
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 2,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 2
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "A",
+                "counts": 41
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "B",
+                "counts": 37
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "B+",
+                "counts": 32
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "C",
+                "counts": 27
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "A+",
+                "counts": 15
+            },
+            {
+                "cluster": 3,
+                "elite": "No",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 42
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 17
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 4
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 1
+            },
+            {
+                "cluster": 3,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "A",
+                "counts": 45
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "B",
+                "counts": 34
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "B+",
+                "counts": 26
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "A+",
+                "counts": 22
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "C",
+                "counts": 21
+            },
+            {
+                "cluster": 4,
+                "elite": "No",
+                "score": "D",
+                "counts": 10
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 46
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 17
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 5
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 4,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "A",
+                "counts": 48
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "B+",
+                "counts": 48
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "B",
+                "counts": 22
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "A+",
+                "counts": 15
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "cluster": 5,
+                "elite": "No",
+                "score": "D",
+                "counts": 2
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 45
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 23
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 7
+            },
+            {
+                "cluster": 5,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "A",
+                "counts": 26
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "A+",
+                "counts": 17
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "B+",
+                "counts": 17
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "C",
+                "counts": 10
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "B",
+                "counts": 8
+            },
+            {
+                "cluster": 6,
+                "elite": "No",
+                "score": "D",
+                "counts": 3
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 57
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 11
+            },
+            {
+                "cluster": 6,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 2
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "A",
+                "counts": 43
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "D",
+                "counts": 37
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "B+",
+                "counts": 19
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "C",
+                "counts": 16
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "A+",
+                "counts": 14
+            },
+            {
+                "cluster": 7,
+                "elite": "No",
+                "score": "B",
+                "counts": 13
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 48
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 15
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 2
+            },
+            {
+                "cluster": 7,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "A",
+                "counts": 46
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "B",
+                "counts": 30
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "C",
+                "counts": 22
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "D",
+                "counts": 21
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "B+",
+                "counts": 19
+            },
+            {
+                "cluster": 8,
+                "elite": "No",
+                "score": "A+",
+                "counts": 14
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 54
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 15
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 1
+            },
+            {
+                "cluster": 8,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "C",
+                "counts": 42
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "D",
+                "counts": 42
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "A",
+                "counts": 37
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "B",
+                "counts": 22
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "B+",
+                "counts": 18
+            },
+            {
+                "cluster": 9,
+                "elite": "No",
+                "score": "A+",
+                "counts": 14
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 38
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "A",
+                "counts": 15
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "C",
+                "counts": 4
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 3
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "D",
+                "counts": 3
+            },
+            {
+                "cluster": 9,
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            }
+        ],
+        "type": [
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A",
+                "counts": 535
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B",
+                "counts": 452
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B+",
+                "counts": 424
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "C",
+                "counts": 367
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "D",
+                "counts": 302
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A+",
+                "counts": 198
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 707
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 194
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 65
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 31
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 15
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "D",
+                "counts": 10
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "D",
+                "counts": 36
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "A",
+                "counts": 5
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 1
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 1
+            }
+        ]
+    },
+    "cardio_biomechanics": {
+        "age": [
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "A",
+                "counts": 8
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "B",
+                "counts": 21
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "B+",
+                "counts": 12
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "C",
+                "counts": 20
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "D",
+                "counts": 13
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 5
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "A",
+                "counts": 170
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "A+",
+                "counts": 81
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "B",
+                "counts": 70
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "B+",
+                "counts": 118
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "C",
+                "counts": 46
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "D",
+                "counts": 30
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 76
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 351
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 9
+            },
+            {
+                "horse_type": "Female Weanling",
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "horse_type": "Female Weanling",
+                "elite": "No",
+                "score": "D",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "A",
+                "counts": 21
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "A+",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "B",
+                "counts": 45
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 28
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "C",
+                "counts": 65
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "D",
+                "counts": 52
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 17
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 19
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 8
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 9
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "A",
+                "counts": 13
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "A+",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "B",
+                "counts": 15
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "B+",
+                "counts": 12
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "C",
+                "counts": 20
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "D",
+                "counts": 27
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 5
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "A",
+                "counts": 50
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "A+",
+                "counts": 16
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "B",
+                "counts": 10
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "B+",
+                "counts": 25
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "C",
+                "counts": 12
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "D",
+                "counts": 10
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 24
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 71
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "A",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "D",
+                "counts": 4
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "A",
+                "counts": 33
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "A+",
+                "counts": 5
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "B",
+                "counts": 49
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 22
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "C",
+                "counts": 55
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "D",
+                "counts": 147
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 22
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 22
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 11
+            }
+        ],
+        "type": [
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A",
+                "counts": 297
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A+",
+                "counts": 103
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B",
+                "counts": 206
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B+",
+                "counts": 212
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "C",
+                "counts": 221
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "D",
+                "counts": 284
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 146
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 468
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 13
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 41
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "D",
+                "counts": 1
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "A+",
+                "counts": 1
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B",
+                "counts": 4
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B+",
+                "counts": 6
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "D",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 1
+            }
+        ]
+    },
+    "dna_cardio_biomechanics": {
+        "age": [
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "A",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "A+",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "B",
+                "counts": 15
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "B+",
+                "counts": 9
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "C",
+                "counts": 29
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "No",
+                "score": "D",
+                "counts": 33
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 15
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female 2YO",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "A",
+                "counts": 51
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "A+",
+                "counts": 8
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "B",
+                "counts": 125
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "B+",
+                "counts": 177
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "C",
+                "counts": 125
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "No",
+                "score": "D",
+                "counts": 98
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 196
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 296
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female Older",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 10
+            },
+            {
+                "horse_type": "Female Weanling",
+                "elite": "No",
+                "score": "B",
+                "counts": 1
+            },
+            {
+                "horse_type": "Female Weanling",
+                "elite": "No",
+                "score": "C",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female Weanling",
+                "elite": "No",
+                "score": "D",
+                "counts": 4
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "A",
+                "counts": 7
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "A+",
+                "counts": 6
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "B",
+                "counts": 91
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 34
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "C",
+                "counts": 116
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "No",
+                "score": "D",
+                "counts": 105
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 43
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 35
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Female Yearling",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "A",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "A+",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "B",
+                "counts": 31
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "B+",
+                "counts": 21
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "C",
+                "counts": 13
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "No",
+                "score": "D",
+                "counts": 39
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 11
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male 2YO",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "A",
+                "counts": 9
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "A+",
+                "counts": 6
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "B",
+                "counts": 26
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "B+",
+                "counts": 46
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "C",
+                "counts": 30
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "No",
+                "score": "D",
+                "counts": 21
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 74
+            },
+            {
+                "horse_type": "Male Older",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 119
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 2
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "C",
+                "counts": 3
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "No",
+                "score": "D",
+                "counts": 5
+            },
+            {
+                "horse_type": "Male Weanling",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 1
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "A",
+                "counts": 25
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "A+",
+                "counts": 30
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "B",
+                "counts": 111
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "B+",
+                "counts": 93
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "C",
+                "counts": 95
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "No",
+                "score": "D",
+                "counts": 160
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 48
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 34
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 5
+            },
+            {
+                "horse_type": "Male Yearling",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 8
+            }
+        ],
+        "type": [
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A",
+                "counts": 97
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "A+",
+                "counts": 57
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B",
+                "counts": 392
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "B+",
+                "counts": 377
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "C",
+                "counts": 406
+            },
+            {
+                "type": "Flat",
+                "elite": "No",
+                "score": "D",
+                "counts": 457
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 385
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 488
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B",
+                "counts": 10
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "B+",
+                "counts": 24
+            },
+            {
+                "type": "Flat",
+                "elite": "Yes",
+                "score": "C",
+                "counts": 4
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "A",
+                "counts": 2
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B",
+                "counts": 8
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "B+",
+                "counts": 5
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "C",
+                "counts": 7
+            },
+            {
+                "type": "National Hunt",
+                "elite": "No",
+                "score": "D",
+                "counts": 8
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A",
+                "counts": 3
+            },
+            {
+                "type": "National Hunt",
+                "elite": "Yes",
+                "score": "A+",
+                "counts": 1
+            }
+        ]
+    },
+    "ml_models_metadata": {
+        "optimal_distance": {
+            "created_at": "2022-07-26T20:16:00.668408Z",
+            "updated_at": "2022-07-26T20:16:00.668434Z",
+            "model_id": "1824463624433827840",
+            "name": "optimal-distance",
+            "resource_name": "projects/780742208705/locations/us-central1/models/1824463624433827840",
+            "creation_time": "2022-07-26T09:58:11.637822Z",
+            "update_time": "2022-07-26T12:12:52.555095Z",
+            "confusion_matrix": [
+                [
+                    93,
+                    7,
+                    0,
+                    0
+                ],
+                [
+                    90,
+                    10,
+                    0,
+                    0
+                ],
+                [
+                    60,
+                    40,
+                    0,
+                    0
+                ],
+                [
+                    100,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "annotations": [
+                "8-10f",
+                "6-8f",
+                "5-7f",
+                "10f+"
+            ],
+            "feature_attributions": {
+                "size1": 22.48,
+                "class1": 6.76,
+                "class2": 8.92,
+                "class3": 13.13,
+                "distance1": 25.6,
+                "distance2": 23.11
+            },
+            "log_loss": 1.2625705,
+            "au_prc": 0.25318134,
+            "au_roc": 0.5453458
+        },
+        "biomechanics": {
+            "created_at": "2022-07-26T19:54:30.638837Z",
+            "updated_at": "2022-07-26T19:54:30.638864Z",
+            "model_id": "2585571961459441664",
+            "name": "biomechanics",
+            "resource_name": "projects/780742208705/locations/us-central1/models/2585571961459441664",
+            "creation_time": "2022-07-26T09:58:00.441120Z",
+            "update_time": "2022-07-26T12:12:12.190433Z",
+            "confusion_matrix": [
+                [
+                    87,
+                    13
+                ],
+                [
+                    29,
+                    71
+                ]
+            ],
+            "annotations": [
+                "No",
+                "Yes"
+            ],
+            "feature_attributions": {
+                "sex": 6.65,
+                "measure_type": 20.18,
+                "dlc_jrg_probability": 8.28,
+                "biomechanics_cluster": 8.12,
+                "biomechanics_gaf_probability": 7.0,
+                "biomechanics_video_probability": 41.5,
+                "biomechanics_keypoint_probability": 8.27
+            },
+            "log_loss": 0.4491634,
+            "au_prc": 0.87633646,
+            "au_roc": 0.8861103
+        },
+        "cardio_biomechanics": {
+            "created_at": "2022-07-26T19:54:30.060734Z",
+            "updated_at": "2022-07-26T19:54:30.060770Z",
+            "model_id": "7197257979886829568",
+            "name": "cardio-biomechanics",
+            "resource_name": "projects/780742208705/locations/us-central1/models/7197257979886829568",
+            "creation_time": "2022-07-26T09:58:01.804089Z",
+            "update_time": "2022-07-26T12:18:51.207762Z",
+            "confusion_matrix": [
+                [
+                    89,
+                    11
+                ],
+                [
+                    36,
+                    64
+                ]
+            ],
+            "annotations": [
+                "No",
+                "Yes"
+            ],
+            "feature_attributions": {
+                "sex": 3.08,
+                "cardio_type": 2.76,
+                "measure_type": 15.28,
+                "cardio_cluster": 7.23,
+                "dlc_jrg_probability": 7.18,
+                "biomechanics_cluster": 2.06,
+                "cardio_video_probability": 18.76,
+                "biomechanics_gaf_probability": 13.07,
+                "biomechanics_video_probability": 23.36,
+                "biomechanics_keypoint_probability": 7.23
+            },
+            "log_loss": 0.46912754,
+            "au_prc": 0.8561404,
+            "au_roc": 0.8598604
+        },
+        "dna_cardio_biomechanics": {
+            "created_at": "2022-07-26T19:54:29.760716Z",
+            "updated_at": "2022-07-26T19:54:29.760738Z",
+            "model_id": "4690160362325016576",
+            "name": "dna-cardio-biomechanics",
+            "resource_name": "projects/780742208705/locations/us-central1/models/4690160362325016576",
+            "creation_time": "2022-07-26T09:58:06.228110Z",
+            "update_time": "2022-07-26T12:47:23.186866Z",
+            "confusion_matrix": [
+                [
+                    89,
+                    11
+                ],
+                [
+                    46,
+                    54
+                ]
+            ],
+            "annotations": [
+                "No",
+                "Yes"
+            ],
+            "feature_attributions": {
+                "sex": 2.05,
+                "size1": 0.4,
+                "class1": 1.41,
+                "class2": 2.74,
+                "class3": 1.17,
+                "distance1": 2.51,
+                "distance2": 0.9,
+                "cardio_type": 2.0,
+                "measure_type": 11.61,
+                "cardio_cluster": 7.6,
+                "dlc_jrg_probability": 12.33,
+                "biomechanics_cluster": 3.63,
+                "cardio_video_probability": 12.82,
+                "biomechanics_gaf_probability": 15.6,
+                "biomechanics_video_probability": 13.96,
+                "biomechanics_keypoint_probability": 9.26
+            },
+            "log_loss": 0.50930744,
+            "au_prc": 0.82952714,
+            "au_roc": 0.85547394
+        }
+    }
+}

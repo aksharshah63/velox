@@ -1,0 +1,15 @@
+Django==3.2.9
+psycopg2-binary==2.9.2
+django-storages[google]==1.12.3
+django-debug-toolbar==3.2.4
+djangorestframework==3.12.4
+google-cloud-storage==1.43.0
+google-cloud-logging==3.0.0
+google-cloud-aiplatform==1.15.0
+django-environ==0.8.1
+django-cors-headers==3.11.0
+django-filter==21.1
+gunicorn
+pandas==1.4.0
+opencv-python==4.5.5.64
+dlib==19.23.1
